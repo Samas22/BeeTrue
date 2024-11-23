@@ -1,12 +1,12 @@
 # BeeTrue
-Auth_U_Structure_&amp;_FreeFlowAPI
+Auth_U_Struct_&amp;_FreeFlowAPI
 
 
-# Authenticated Universal Structure for Personal Relations (AUSPR)
+# Authenticated Universal Structure for Permament Integrity and Resposability (AUSPIR)
 
 ## Overview
 
-**AUSPR** is an innovative, decentralized application designed to foster personal relationships among users within a secure, authenticated, and peer-to-peer (P2P) ecosystem. Leveraging blockchain technology, InterPlanetary File System (IPFS), and modern decentralized principles, AUSPR ensures data authenticity, integrity, and accountability while providing robust tools for collaboration, transactions, and communication.
+**AUSPR** is an innovative, decentralized application designed to foster personal relationships among users within a secure, authenticated, and peer-to-peer (P2P) ecosystem. Leveraging blockchain technology, InterPlanetary File System (IPFS), and modern decentralized principles, AUSPIR ensures data authenticity, integrity, and accountability while providing robust tools for collaboration, transactions, and communication.
 
 ---
 
@@ -45,7 +45,7 @@ Auth_U_Structure_&amp;_FreeFlowAPI
 
 ## Goals and Philosophy
 
-AUSPR is built on core values of **trust**, **responsibility**, and **honor**:
+AUSPIR is built on core values of **trust**, **responsibility**, and **honor**:
 - **Trust through Facts:** All data is validated through a DAO to ensure truth and authenticity.
 - **Responsibility:** Users are accountable for their actions within the ecosystem.
 - **Freedom and Integrity:** The FreeFlow paradigm ensures users are free to interact while maintaining ethical integrity.
@@ -100,8 +100,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For support or inquiries, please contact:
-- **Email:** support@auspr.io
-- **Website:** [www.auspr.io](http://www.auspr.io)
+- **Email:** support@auspir.io
+- **Website:** [www.auspr.io](http://www.auspir.io)
 
 **Join us in building a decentralized future founded on trust, responsibility, and integrity!**
 
