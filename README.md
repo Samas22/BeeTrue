@@ -2,7 +2,7 @@
 Auth_U_Struct_&amp;_FreeFlowAPI
 
 
-# Authenticated Universal Structure for Permament Integrity and Resposability (AUSPIR)
+# Authenticated Universal Structure for Permament Integrity and Responsability (AUSPIR)
 
 ## Overview
 
